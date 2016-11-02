@@ -26,6 +26,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'thin'
 
 gem 'starter_generators'
+
+gem 'annotate'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
